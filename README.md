@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning  learning the programming language java ,
 - and exploring object- Oriented Programming concepts.
 
-- 💞️ I’m looking to collaborate on projects related to Java Programming ,
+-  I’m looking to collaborate on projects related to Java Programming ,
 - Object -Oriented Programming , and beginner-friendly open-source initiatives ...
+
+- I'm currently trying to learn C++ . Also with trying to understand how to solve problem ,,,, 
 
 - 📫 How to reach me :
 - nafijurrna@gmail.com
